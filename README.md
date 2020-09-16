@@ -3,6 +3,8 @@
 **index.html** is connecting with the school database
 Please use **test.html** for the local testing. SQL is included in the file.
 
+For more detail regarding database structure, please read the report under root folder.
+
 This application is using plain HTML and Bootstrap for the frontend.
 PHP in REST API for the backend.
 
